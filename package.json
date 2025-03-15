@@ -1,0 +1,15 @@
+{
+  "name": "aula-0703-typescript-",
+  "version": "1.0.0",
+  "description": "Aula 07/03/2025 - Evoluindo com TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
